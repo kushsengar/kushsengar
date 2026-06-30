@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kush Sengar  
 
-🎓 Final-year **Computer Science & Engineering** student at **IPS Academy Indore** (CGPA: 9.18/10)  
+🎓 Final-year **Computer Science & Engineering** student at **IPS Academy Indore** (CGPA: 9.5/10)  
 💻 Passionate about **Web Development, AI, and Cloud Integration**  
 🚀 Skilled in building scalable applications using **Python**, **Java**, **JavaScript**, and modern frameworks  
 🏆 SIH 2024 Finalist | Competitive Programmer | Cloud & AI Enthusiast  
